@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_details.xml",
+        "source": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\src\\main\\res\\menu\\alarm_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_list.xml",
+        "source": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\src\\main\\res\\menu\\alarm_list.xml"
+    }
+]

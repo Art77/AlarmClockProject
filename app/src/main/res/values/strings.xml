@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Будильник</string>
+    <string name="action_settings">Настройки</string>
+
+	<string name="details_repeat_weekly">Ежеднедельно</string>
+	<string name="details_sunday">Воскресенье</string>
+	<string name="details_monday">Понедельник</string>
+	<string name="details_tuesday">Вторник</string>
+	<string name="details_wednesday">Среда</string>
+	<string name="details_thursday">Четверг</string>
+	<string name="details_friday">Пятница</string>
+	<string name="details_saturday">Суббота</string>
+	<string name="details_alarm_tone">Звуковой сигнал</string>
+	<string name="details_alarm_tone_default">Выбор сигнала будильника</string>
+	
+</resources>

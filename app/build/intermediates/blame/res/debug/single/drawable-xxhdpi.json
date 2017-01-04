@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\action_save.png",
+        "source": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\src\\main\\res\\drawable-xxhdpi\\action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\action_bar_add.png",
+        "source": "C:\\Users\\user\\Desktop\\AlarmClock1\\app\\src\\main\\res\\drawable-xxhdpi\\action_bar_add.png"
+    }
+]
