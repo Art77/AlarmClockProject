@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 24
-    buildToolsVersion "24.0.2"
+    buildToolsVersion "24.0.3"
 
     defaultConfig {
         applicationId "com.trigg.alarmclock"
@@ -19,8 +19,13 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+
+    repositories {
+        mavenCentral()
+    }
 }
 
 dependencies {
     compile 'com.android.support:appcompat-v7:24.+'
+    compile 'com.luckycatlabs:SunriseSunsetCalculator:1.2'
 }
