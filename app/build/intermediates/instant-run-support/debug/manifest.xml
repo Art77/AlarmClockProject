@@ -16,8 +16,7 @@
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:label="@string/app_name" >
         <activity
             android:name="com.trigg.alarmclock.AlarmListActivity"
             android:label="@string/app_name" >
@@ -28,7 +27,11 @@
             </intent-filter>
         </activity>
         <activity android:name="com.trigg.alarmclock.AlarmScreen" />
-        <activity android:name="com.trigg.alarmclock.AlarmDetailsActivity" />
+        <activity android:name="com.trigg.alarmclock.AlarmDetailsActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trigg.alarmclock.AlarmListActivity" />
+        </activity>
 
         <service
             android:name="com.trigg.alarmclock.AlarmService"

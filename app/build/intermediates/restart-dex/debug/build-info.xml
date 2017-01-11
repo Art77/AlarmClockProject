@@ -5,32 +5,32 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="97758456506047"
-    token="8436048713285114355"
+    timestamp="24640224559313"
+    token="-7420691167951646733"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="6333" />
+        duration="954" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="791" />
+        duration="162" />
     <task
         name="verifier"
-        duration="51" />
+        duration="6" />
 
     <artifact
-        location="D:\AlarmClock\AlarmClockProject\app\build\outputs\apk\app-debug.apk"
+        location="D:\AlarmClockProject\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="97758456506047"
+        timestamp="24640224559313"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\AlarmClock\AlarmClockProject\app\build\outputs\apk\app-debug.apk"
+            location="D:\AlarmClockProject\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

@@ -66,7 +66,8 @@ public class AlarmListAdapter extends BaseAdapter {
 		AlarmModel model = (AlarmModel) getItem(position);
 		
 		TextView txtTime = (TextView) view.findViewById(R.id.alarm_item_time);
-		txtTime.setText(String.format("%02d : %02d", model.timeHour, model.timeMinute));
+		//txtTime.setText(String.format("%02d : %02d", model.timeHour, model.timeMinute));
+        txtTime.setText("00:00");
 
 		updateTextColor((TextView) view.findViewById(R.id.alarm_item_monday), model.getRepeatingDay(AlarmModel.MONDAY));
 		updateTextColor((TextView) view.findViewById(R.id.alarm_item_tuesday), model.getRepeatingDay(AlarmModel.TUESDAY));
@@ -89,7 +90,7 @@ public class AlarmListAdapter extends BaseAdapter {
 		
 		view.setTag(Long.valueOf(model.id));
 		view.setOnClickListener(new OnClickListener() {
-			
+
 			@Override
 			public void onClick(View view) {
 				((AlarmListActivity) mContext).startAlarmDetailsActivity(((Long) view.getTag()).longValue());

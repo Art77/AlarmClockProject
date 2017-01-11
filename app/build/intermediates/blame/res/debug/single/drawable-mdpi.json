@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\AlarmClock\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "D:\\AlarmClock\\AlarmClockProject\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\action_save.png",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-mdpi\\action_save.png"
     },
     {
-        "merged": "D:\\AlarmClock\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\action_save.png",
-        "source": "D:\\AlarmClock\\AlarmClockProject\\app\\src\\main\\res\\drawable-mdpi\\action_save.png"
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\AlarmClock\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\action_bar_add.png",
-        "source": "D:\\AlarmClock\\AlarmClockProject\\app\\src\\main\\res\\drawable-mdpi\\action_bar_add.png"
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\action_bar_add.png",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-mdpi\\action_bar_add.png"
     }
 ]

@@ -44,6 +44,7 @@ public class AlarmScreen extends Activity {
 			@Override
 			public void onClick(View view) {
 				mPlayer.stop();
+                mWakeLock.release();
 				finish();
 			}
 		});
@@ -110,7 +111,6 @@ public class AlarmScreen extends Activity {
 	@Override
 	protected void onPause() {
 		super.onPause();
-
 		if (mWakeLock != null && mWakeLock.isHeld()) {
 			mWakeLock.release();
 		}

@@ -3,273 +3,138 @@
 
     <item
         is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
+        revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_865a8f9ae97d1ea60e6cd7baef5b3a139c38d135.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b8eea35a529640230f1338d6474dff949a782aaa.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_cd1e14329909b925d756178a4bc2f4b8314604f9.jar" />
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_64b12baf4ceba6d31c1d327860d1f1ccd253d5db.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2c5af97f344432c9f88933b159782019693ab696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_a3b18a1f70ecf402d5424b1b0cb3cc6f88008a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_64ffd64e424294e80425d465143bdcd1a65438f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3b1ecf61da78d73268ba77bae82ff654d08acfa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AlarmClockProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="36e78fd96a438d671ba37afa0d8c282fdd539289">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\instant-run_9c7e2c441b9eafe5cb3557791d0016907d4d3048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9fb34876e4053fcf329d259d214ef57d8d0c2fba.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_c4452425a506ee2ee3cfc27a4bdf9314e385a7d2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_682ce8638fbcbd05e8142c2b907ba46a357a4994.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_74f09e5b12ad4cdc62d4215774e1068f07077c67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e3e6e9c8880499d97bfd5adffbba26e7cbc59a9d.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c9e9182441ab7d948b34a9c5cece98938d82d32c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f78c024ebfd6ac8b84c9e9df8d51f9d1a860ff58.jar" />
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1777e3f6dd70e1ac7c4e22aab4237850d911ec5b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e17f1098a580e6fb8eb424a3ea7620d0da41f711.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_cee2c1ffe93edca846dd8addfc55c140212cee43.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a427ca053f2e9d22b72858ee1f18f386a49ac7dd">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1baf7e5c2145cbaff233a96b7089710159b54b1d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7367b91c864e2340cdbf0785104c036b643613c0.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_48822049d61ac0a51adb1006294a4408614b5714.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_cd1e14329909b925d756178a4bc2f4b8314604f9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_93b5e578e83a1bed1a5765fe669b0b4c2764afb8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_fadf726b0913f8a4edb2c2dd6afddf4374f87b00.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5120b9431bcce47c0848fd30235002fafe24545d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9135af0e83e1c4bab25b919c9aa99e011f1ff4ff">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\instant-run_776f6c7c9b91da36991c91748e727a7393ce8467.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e2d954c37b3fe77adf5dcb954f3986e42cd5830c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5503cec6a60eb61e3337796175939340014a9b3c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bba0b87bb8e6f506a712f5a954605193bb284986">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\instant-run_cf54178688f7cec7c283ac318e90adb061228462.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_dae96dac5554c576f2e03b0dd829118d5e93bbc1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_fadf726b0913f8a4edb2c2dd6afddf4374f87b00.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_50acea20a12e08d582ead8a2c663303276f0e570.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ba7fe28154828b16d32f8fda1ef1c4761871641c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9fb34876e4053fcf329d259d214ef57d8d0c2fba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_60b91a627dab0aae4acfe4c437221e85b6ab4212.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_89f55a8e7b14be991af6d10a9b18d8b3f363d1bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_634232fc6a2559dc0447a2dd0d270ef8deae4e21.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_85313f7d92d308e6b3e17d2faba2a3d4ec344767.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_81cc4e8ff4ba319d4c6652039cc55a345d9ba6bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e3e6e9c8880499d97bfd5adffbba26e7cbc59a9d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_63c87799fa059b4faf89a624cbc07ec581475308.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_97b3b4598593329e2f066275f2824852c196dcbb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
+        jar="D:\AlarmClockProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_89f55a8e7b14be991af6d10a9b18d8b3f363d1bb.jar" />
+        sha1="260c929f95a3ab612d690c3d15d1fa04f9d77814">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_59b6fef70e5805052b7d52ed7bb361b01c668077.jar" />
     </item>
     <item
         is-multidex="false"
@@ -278,313 +143,25 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b026ccfea8a9b590c197a4a64f7ab7f1247fb401.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b026ccfea8a9b590c197a4a64f7ab7f1247fb401.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7367b91c864e2340cdbf0785104c036b643613c0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5503cec6a60eb61e3337796175939340014a9b3c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5562b35bfa542eae77402e25465f8de45057d8f3">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8ef465279538d5d53594cf823b5dfa399d413566.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_89f55a8e7b14be991af6d10a9b18d8b3f363d1bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ba7fe28154828b16d32f8fda1ef1c4761871641c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_fadf726b0913f8a4edb2c2dd6afddf4374f87b00.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5503cec6a60eb61e3337796175939340014a9b3c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_dae96dac5554c576f2e03b0dd829118d5e93bbc1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1e622c47cafde2fb80a176e982c6ae31c028e7c9">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8ef465279538d5d53594cf823b5dfa399d413566.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f0b09ff465ffb4c327b9fab9368f2aff55ed96f5">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\instant-run_cf54178688f7cec7c283ac318e90adb061228462.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_634232fc6a2559dc0447a2dd0d270ef8deae4e21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e3e6e9c8880499d97bfd5adffbba26e7cbc59a9d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2c45f0f41690a16f8a6a1393860a671f72528e4d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_81cc4e8ff4ba319d4c6652039cc55a345d9ba6bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e17f1098a580e6fb8eb424a3ea7620d0da41f711.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9fb34876e4053fcf329d259d214ef57d8d0c2fba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e17f1098a580e6fb8eb424a3ea7620d0da41f711.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_dae96dac5554c576f2e03b0dd829118d5e93bbc1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_50acea20a12e08d582ead8a2c663303276f0e570.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7367b91c864e2340cdbf0785104c036b643613c0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b026ccfea8a9b590c197a4a64f7ab7f1247fb401.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_74f09e5b12ad4cdc62d4215774e1068f07077c67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_cd1e14329909b925d756178a4bc2f4b8314604f9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bf4f5f00641c1c3156c4b68bc19b963e592d11e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_81cc4e8ff4ba319d4c6652039cc55a345d9ba6bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_634232fc6a2559dc0447a2dd0d270ef8deae4e21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ba7fe28154828b16d32f8fda1ef1c4761871641c.jar" />
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_322c7e7d07d8665b4f9e86ba77a0032ffc6bd635.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_e86939e2e47b48a114814aeca82b2bd19eb7e511.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_74f09e5b12ad4cdc62d4215774e1068f07077c67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_f01de91946405ca79ad4d62929e498112adb749b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.luckycatlabs\SunriseSunsetCalculator\1.2\ee2cf7467f62325deb4e4e533425bcacbc8f07fd\SunriseSunsetCalculator-1.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_50acea20a12e08d582ead8a2c663303276f0e570.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4a524172d20c6f6ffbfde2296a4dad25978959ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AlarmClock\AlarmClockProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="D:\AlarmClock\AlarmClockProject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_ca78de8de095d2aa84df157e7c520bfe6a209198.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\user\Desktop\AlarmClock1\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b026ccfea8a9b590c197a4a64f7ab7f1247fb401.jar" />
+        sha1="ee2cf7467f62325deb4e4e533425bcacbc8f07fd">
+        <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\SunriseSunsetCalculator-1.2_d5cb358660acaaf7f287ad0f5df2eae6f0b84d2b.jar" />
     </item>
 
 </items>

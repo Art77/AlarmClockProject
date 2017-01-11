@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\AlarmClock\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_details.xml",
-        "source": "D:\\AlarmClock\\AlarmClockProject\\app\\src\\main\\res\\menu\\alarm_details.xml"
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_details.xml",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\menu\\alarm_details.xml"
     },
     {
-        "merged": "D:\\AlarmClock\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_list.xml",
-        "source": "D:\\AlarmClock\\AlarmClockProject\\app\\src\\main\\res\\menu\\alarm_list.xml"
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_list.xml",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\menu\\alarm_list.xml"
     }
 ]

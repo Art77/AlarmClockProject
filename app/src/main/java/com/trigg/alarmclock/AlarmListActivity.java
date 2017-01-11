@@ -35,7 +35,9 @@ public class AlarmListActivity extends ListActivity {
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.alarm_list, menu);
-		return true;
+//		boolean result = super.onCreateOptionsMenu(menu);
+//        return result;
+        return (super.onCreateOptionsMenu(menu));
 	}
 	
 	@Override
