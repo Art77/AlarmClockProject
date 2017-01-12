@@ -325,8 +325,10 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="action_settings">Настройки</string>
+    <string name="action_alarms">Будильники</string>
+    <string name="action_settings">Настройка</string>
     <string name="app_name" translatable="false">Будильник</string>
+    <string name="defaut_time">00:00</string>
     <string name="details_alarm_tone">Звуковой сигнал</string>
     <string name="details_alarm_tone_default">Выбор сигнала будильника</string>
     <string name="details_friday">Пятница</string>
@@ -337,13 +339,20 @@
     <string name="details_thursday">Четверг</string>
     <string name="details_tuesday">Вторник</string>
     <string name="details_wednesday">Среда</string>
+    <string name="reduction_friday">Пт</string>
+    <string name="reduction_monday">Пн</string>
+    <string name="reduction_saturday">Сб</string>
+    <string name="reduction_sunday">Вс</string>
+    <string name="reduction_thursday">Чт</string>
+    <string name="reduction_tuesday">Вт</string>
+    <string name="reduction_wednesday">Ср</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppBaseTheme" parent="android:Theme.DeviceDefault.Light"/>
     <style name="AppTheme" parent="AppBaseTheme"/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>

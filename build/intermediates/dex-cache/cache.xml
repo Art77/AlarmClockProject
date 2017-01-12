@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="36e78fd96a438d671ba37afa0d8c282fdd539289">
+        sha1="bb697cddb70057913e6d30d3d2f6d0170489e0a8">
         <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\instant-run_9c7e2c441b9eafe5cb3557791d0016907d4d3048.jar" />
     </item>
     <item
@@ -133,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="260c929f95a3ab612d690c3d15d1fa04f9d77814">
+        sha1="84f5f0f6f999de00588c2de75fffe61da35762af">
         <dex dex="D:\AlarmClockProject\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_59b6fef70e5805052b7d52ed7bb361b01c668077.jar" />
     </item>
     <item

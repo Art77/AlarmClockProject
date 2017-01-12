@@ -1,26 +1,40 @@
 package com.trigg.alarmclock;
 
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.List;
 
 import android.content.Context;
 import android.graphics.Color;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.View.OnLongClickListener;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.ToggleButton;
+
+import com.luckycatlabs.sunrisesunset.SunriseSunsetCalculator;
+import com.trigg.alarmclock.Sun.SunListAdapter;
+import com.trigg.alarmclock.Sun.SunModel;
 
 public class AlarmListAdapter extends BaseAdapter {
 
 	private Context mContext;
 	private List<AlarmModel> mAlarms;
+    private Double latitude = 53.220000;
+    private Double longitude = 45.020000;
 
-	public AlarmListAdapter(Context context, List<AlarmModel> alarms) {
+    private static final String TAG = "AlarmListAdapter";
+
+    public AlarmListAdapter(Context context, List<AlarmModel> alarms) {
 		mContext = context;
 		mAlarms = alarms;
 	}
@@ -54,7 +68,6 @@ public class AlarmListAdapter extends BaseAdapter {
 	}
 
 
-
 	@Override
 	public View getView(int position, View view, ViewGroup parent) {
 
@@ -64,10 +77,10 @@ public class AlarmListAdapter extends BaseAdapter {
 		}
 		
 		AlarmModel model = (AlarmModel) getItem(position);
-		
+        this.alwaysSun(model, mContext, view);
+
 		TextView txtTime = (TextView) view.findViewById(R.id.alarm_item_time);
-		//txtTime.setText(String.format("%02d : %02d", model.timeHour, model.timeMinute));
-        txtTime.setText("00:00");
+		txtTime.setText(String.format("%02d : %02d", model.timeHour, model.timeMinute));
 
 		updateTextColor((TextView) view.findViewById(R.id.alarm_item_monday), model.getRepeatingDay(AlarmModel.MONDAY));
 		updateTextColor((TextView) view.findViewById(R.id.alarm_item_tuesday), model.getRepeatingDay(AlarmModel.TUESDAY));
@@ -87,7 +100,17 @@ public class AlarmListAdapter extends BaseAdapter {
 				((AlarmListActivity) mContext).setAlarmEnabled(((Long) buttonView.getTag()).longValue(), isChecked);
 			}
 		});
-		
+
+
+        Button btnDelete = (Button) view.findViewById(R.id.alarm_item_delete);
+        btnDelete.setTag(Long.valueOf(model.id));
+        btnDelete.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                ((AlarmListActivity) mContext).ondeleAlarm(((Long) view.getTag()).longValue());
+            }
+        });
+
 		view.setTag(Long.valueOf(model.id));
 		view.setOnClickListener(new OnClickListener() {
 
@@ -117,4 +140,38 @@ public class AlarmListAdapter extends BaseAdapter {
 		}
 	}
 
+    private void alwaysSun(AlarmModel alarm, Context context, View view)
+    {
+        List<SunModel> sunModelList = alarm.getSun();
+        List<SunModel> listGeo = new ArrayList<>();
+
+        for (int i = 0; i < sunModelList.size(); i++) {
+
+            com.luckycatlabs.sunrisesunset.dto.Location location =
+                      //  new com.luckycatlabs.sunrisesunset.dto.Location("39.9522222", "-75.1641667");
+                    new com.luckycatlabs.sunrisesunset.dto.Location(latitude, longitude);
+            Log.v(TAG, "latitude=" + latitude);
+            Log.v(TAG, "longitude=" + longitude);
+            SunriseSunsetCalculator calculator = new SunriseSunsetCalculator(location, "Russia");
+
+            Calendar sunrise = calculator.getOfficialSunriseCalendarForDate(sunModelList.get(i).calendar);
+            Calendar sunset = calculator.getOfficialSunsetCalendarForDate(sunModelList.get(i).calendar);
+
+            SimpleDateFormat sdf = new SimpleDateFormat("HH:mm");
+            sunModelList.get(i).startSun = sdf.format(sunrise.getTime());
+            sunModelList.get(i).endSun = sdf.format(sunset.getTime());
+            listGeo.add(sunModelList.get(i));
+        }
+        SunListAdapter adapter = new SunListAdapter(context, R.layout.sun_list_row, listGeo);
+        final Spinner spinner = (Spinner) view.findViewById(R.id.spinner);
+        spinner.setAdapter(adapter);
+    }
+
+    public void setLatitude(double latitude)  {
+        this.latitude = latitude;
+    }
+
+    public void setLongitude(double longitude)  {
+        this.longitude = longitude;
+    }
 }

@@ -13,8 +13,9 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
 	        android:layout_alignParentTop="true"
-	        android:text="00 : 00"
+	        android:text="@string/defaut_time"
 	        android:textAppearance="?android:attr/textAppearanceLarge" />
 
 
@@ -23,8 +24,9 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 			android:layout_alignParentLeft="true"
-			android:layout_below="@+id/alarm_item_time"
-			android:text="П"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/alarm_item_time"
+			android:text="@string/reduction_monday"
 			android:textAppearance="?android:attr/textAppearanceSmall" />
 
 	    <TextView
@@ -32,9 +34,11 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_toRightOf="@+id/alarm_item_monday"
-	        android:layout_below="@+id/alarm_item_time"
+            android:layout_toEndOf="@+id/alarm_item_monday"
+            android:layout_below="@+id/alarm_item_time"
 	        android:layout_marginLeft="4dp"
-	        android:text="В"
+            android:layout_marginStart="4dp"
+	        android:text="@string/reduction_tuesday"
 	        android:textAppearance="?android:attr/textAppearanceSmall" />
 
 	    <TextView
@@ -42,9 +46,11 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_toRightOf="@+id/alarm_item_tuesday"
+            android:layout_toEndOf="@+id/alarm_item_tuesday"
 	        android:layout_below="@+id/alarm_item_time"
 	        android:layout_marginLeft="4dp"
-	        android:text="С"
+            android:layout_marginStart="4dp"
+	        android:text="@string/reduction_wednesday"
 	        android:textAppearance="?android:attr/textAppearanceSmall" />
 
 	    <TextView
@@ -52,19 +58,23 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_toRightOf="@+id/alarm_item_wednesday"
+            android:layout_toEndOf="@+id/alarm_item_wednesday"
 	        android:layout_below="@+id/alarm_item_time"
 	        android:layout_marginLeft="4dp"
-	        android:text="Ч"
+            android:layout_marginStart="4dp"
+	        android:text="@string/reduction_thursday"
 	        android:textAppearance="?android:attr/textAppearanceSmall" />
 
 	    <TextView
 	        android:id="@+id/alarm_item_friday"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
-	        android:layout_toRightOf="@+id/alarm_item_thursday"
+            android:layout_toRightOf="@+id/alarm_item_thursday"
+            android:layout_toEndOf="@+id/alarm_item_thursday"
 	        android:layout_below="@+id/alarm_item_time"
+            android:layout_marginStart="4dp"
 	        android:layout_marginLeft="4dp"
-	        android:text="П"
+	        android:text="@string/reduction_friday"
 	        android:textAppearance="?android:attr/textAppearanceSmall" />
 
 		<TextView
@@ -72,9 +82,11 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_toRightOf="@+id/alarm_item_friday"
+            android:layout_toEndOf="@+id/alarm_item_friday"
 	        android:layout_below="@+id/alarm_item_time"
 	        android:layout_marginLeft="4dp"
-	        android:text="С"
+            android:layout_marginStart="4dp"
+	        android:text="@string/reduction_saturday"
 	        android:textAppearance="?android:attr/textAppearanceSmall" />
 
 		<TextView
@@ -82,9 +94,11 @@
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 			android:layout_toRightOf="@+id/alarm_item_saturday"
+            android:layout_toEndOf="@+id/alarm_item_saturday"
 			android:layout_below="@+id/alarm_item_time"
+            android:layout_marginStart="4dp"
 			android:layout_marginLeft="4dp"
-			android:text="В"
+			android:text="@string/reduction_sunday"
 			android:textAppearance="?android:attr/textAppearanceSmall" />
 
 		<ToggleButton
@@ -92,8 +106,31 @@
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"
 	        android:layout_alignParentRight="true"
-	        android:layout_alignParentTop="true" />
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true" />
 
-	</RelativeLayout>
 
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/alarm_item_toggle"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/spinner"
+            android:layout_toStartOf="@+id/alarm_item_toggle"
+            android:layout_toLeftOf="@+id/alarm_item_toggle">
+        </Spinner>
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/alarm_item_delete"
+            android:drawableLeft="@drawable/ic_action_trash"
+            android:drawableStart="@drawable/ic_action_trash"
+            android:layout_alignBottom="@+id/spinner"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/alarm_item_toggle"/>
+    </RelativeLayout>
 </FrameLayout>

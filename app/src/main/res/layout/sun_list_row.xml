@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    >
+
+<RelativeLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                      >
+    <TextView
+        android:text="Пн"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/day_alarm"/>
+
+    <TextView
+        android:text="@string/defaut_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/day_alarm"
+        android:layout_toEndOf="@id/day_alarm"
+        android:layout_marginLeft="5sp"
+        android:layout_marginStart="5sp"
+        android:drawableRight="@drawable/ic_brightness_low"
+        android:drawableEnd="@drawable/ic_brightness_low"
+        android:id="@+id/start_sun"/>
+
+    <TextView
+        android:text="@string/defaut_time"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_height="wrap_content"
+        android:drawableRight="@drawable/ic_brightness_medium"
+        android:drawableEnd="@drawable/ic_brightness_medium"
+        android:id="@+id/end_sun"/>
+</RelativeLayout>
+</LinearLayout>

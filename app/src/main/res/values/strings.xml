@@ -2,8 +2,9 @@
 <resources>
 
     <string name="app_name" translatable="false">Будильник</string>
-    <string name="action_settings">Настройки</string>
-
+    <string name="action_alarms">Будильники</string>
+    <string name="action_settings">Настройка</string>
+    <!--reduction-->
 
 	<string name="details_repeat_weekly">Ежеднедельно</string>
 	<string name="details_sunday">Воскресенье</string>
@@ -15,5 +16,14 @@
 	<string name="details_saturday">Суббота</string>
 	<string name="details_alarm_tone">Звуковой сигнал</string>
 	<string name="details_alarm_tone_default">Выбор сигнала будильника</string>
-	
+
+    <string name="reduction_sunday">Вс</string>
+    <string name="reduction_monday">Пн</string>
+    <string name="reduction_tuesday">Вт</string>
+    <string name="reduction_wednesday">Ср</string>
+    <string name="reduction_thursday">Чт</string>
+    <string name="reduction_friday">Пт</string>
+    <string name="reduction_saturday">Сб</string>
+
+    <string name="defaut_time">00:00</string>
 </resources>

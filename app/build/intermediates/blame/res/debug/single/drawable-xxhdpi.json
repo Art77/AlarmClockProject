@@ -1,5 +1,21 @@
 [
     {
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_brightness_low.png",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_brightness_low.png"
+    },
+    {
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_brightness_medium.png",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_brightness_medium.png"
+    },
+    {
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_trash.png",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_trash.png"
+    },
+    {
+        "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
+        "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
         "merged": "D:\\AlarmClockProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "D:\\AlarmClockProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },

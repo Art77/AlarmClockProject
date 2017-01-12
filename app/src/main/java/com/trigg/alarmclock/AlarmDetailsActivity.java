@@ -42,7 +42,7 @@ public class AlarmDetailsActivity extends Activity {
 
 		setContentView(R.layout.activity_details);
 
-		getActionBar().setTitle("Settings");
+		getActionBar().setTitle(this.getResources().getText(R.string.action_settings));
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 
 		timePicker = (TimePicker) findViewById(R.id.alarm_details_time_picker);
