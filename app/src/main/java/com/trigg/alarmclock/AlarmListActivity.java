@@ -148,7 +148,7 @@ public class AlarmListActivity extends ListActivity {
     private void DialogMessage() {
         Builder dialog = new Builder(AlarmListActivity.this);
         dialog.setTitle("\tАвтор");
-        dialog.setMessage("Шишов Д.Д. \n Спасибо Steven Trigg");
+        dialog.setMessage("Шишов Д.Д.");
         dialog.setPositiveButton("OK", new OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
