@@ -1,5 +1,5 @@
 # AlarmClockProject
-Будильник с восходом и заходом солнца относительно геолокации пользователя
+Alarm clock with sunrise and sunset relative to user geolocation
 
-Спасибо
+Thanks!
 Steven Trigg for his Alarm Clock app tutorial
